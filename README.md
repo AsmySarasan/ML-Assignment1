@@ -17,4 +17,4 @@ You can then run the program by running the command:
 
 > python Scrape.py
 
-A csv file named `FIFA.csv` will be created that would have your info
+The output will be printed on your terminal along with creating a csv file named `FIFA.csv` that would have the info
