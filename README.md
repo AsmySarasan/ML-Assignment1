@@ -21,4 +21,4 @@ You can then run the program by running the command:
 
 > python Scrape.py
 
-On your terminal, you will be able to see the details of the First stage of FIFA 2018 with the dates, teams playing and the times of the games.  As the FIFA tournament progresses to second stage, the terminal will display details of next stage along with irst stage. A CSV file named `FIFA.csv` will also be created that stores the dates of all the games for each stage.
+On your terminal, you will be able to see the details of the **First stage** of FIFA 2018 with the dates, teams playing and the times of the games.  As the FIFA tournament progresses to second stage, the terminal will display details of next stage along with irst stage. A CSV file named `FIFA.csv` will also be created that stores the dates of all the games for each stage.
