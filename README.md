@@ -2,7 +2,7 @@
 
 ### Scraping using Python
 
-#### Author - Asmy Sarasan, 100462413
+> Author - Asmy Sarasan, 100462413
 
 This is a scraping tool built using Python 3.6.3 that would give you the details of FIFA 2018 rounds and game dates.
 
